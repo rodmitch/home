@@ -1,7 +1,5 @@
 http://chrisguillebeau.com/3x5/how-to-conduct-your-own-annual-review/
 
-2012 annual review/plan [EN]
-
 5-yr plan
 ------
 * ~~2002 Married! Bought house~~
@@ -88,42 +86,42 @@ Objective: I want to be fit, healthy, and strong. Physically and spiritually.
 
 **Financial Development**
 - budget organization (get more control over budget, restrict spending--stick to the budget, track spending)
- - stick to budget, anything additional goes to the following plan:
- - $150/mo (plus additional amount from W4 adjustment) to savings to build:
-   - emergency fund up to $1200
-   - rental maintenance yp to $1400
- - then divert that amount (plus tax return) to pay off debt in this order:
-    - prosper1 (should be paid off completely with tax refund)
-    - BofA (cancel before May to avoid annual fee, this will be difficult to do and the $75 fee is probably less than a loan transfer fee plus interest between May and Sept)
-    - prosper2
-   - this can be done by by the end of 2012 by selling the Kia (~$12K), paying off the loan (~$7K), buying a van with the difference (~5K), and that frees up $381/month to do the above faster.
- - savings
-   - build up funds (gifts,clothes,house,car repair) then divert that money to pay off debt
-   - save car repair fund 20% pymt to 10% value ($80/1400)
-   - save home repair fund 20% pymt to 10% value($240/20000))
-   - savings accounts
-    - $1200 emergency fund (1 month rent)
-    - $1400 rental maintenance fund (1 mortgage pymnt)
-    - gifts $65/mo
-    - travel (save for ?)
-    - $1400 gas/car maintenance fund (postpone until out of debt or we do Kia deal)
- - double income in 5 years
- - Get out of debt by end of 2011, that's 24 months (excl. mortgage, --car--)(including car!)
- - plan to buy house or invest
+    - stick to budget, anything additional goes to the following plan:
+    - $150/mo (plus additional amount from W4 adjustment) to savings to build:
+        - emergency fund up to $1200
+        - rental maintenance yp to $1400
+    - then divert that amount (plus tax return) to pay off debt in this order:
+        - prosper1 (should be paid off completely with tax refund)
+        - BofA (cancel before May to avoid annual fee, this will be difficult to do and the $75 fee is probably less than a loan transfer fee plus interest between May and Sept)
+        - prosper2
+    - this can be done by by the end of 2012 by selling the Kia (~$12K), paying off the loan (~$7K), buying a van with the difference (~5K), and that frees up $381/month to do the above faster.
+- savings
+    - build up funds (gifts,clothes,house,car repair) then divert that money to pay off debt
+    - save car repair fund 20% pymt to 10% value ($80/1400)
+    - save home repair fund 20% pymt to 10% value($240/20000))
+    - savings accounts
+        - $1200 emergency fund (1 month rent)
+        - $1400 rental maintenance fund (1 mortgage pymnt)
+        - gifts $65/mo
+        - travel (save for ?)
+        - $1400 gas/car maintenance fund (postpone until out of debt or we do Kia deal)
+- double income in 5 years
+- Get out of debt by end of 2011, that's 24 months (excl. mortgage, --car--)(including car!)
+- plan to buy house or invest
 
 **Sound Ministry Development**
--new sound guys: [no]
--improvements? [no]
+- new sound guys: [no]
+- improvements? [no]
 
 **[food]**
--Weber gas grill
--Iron Chef-like event [no]
+- Weber gas grill
+- Iron Chef-like event [no]
 
 **[tech]**
--learn programing language
+- learn programing language
 
 **[travel]**
--travel (fishing, coast, WA)
+- travel (fishing, coast, WA)
 
 **Theme for the Year: FOOTINGS**
 [sorta. bought new house and HVAC. beginning of lots of new things and lots of work/plans to come]
