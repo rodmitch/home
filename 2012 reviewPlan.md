@@ -2,7 +2,7 @@
 ======
 
 **5-yr plan**
-* ~~200~~ Married! Bought house
+* ~~2002~~ Married! Bought house
 * ~~2003~~
 * ~~2004~~
 * ~~2005~~ Moved to rental house(?)
