@@ -1,18 +1,18 @@
-http://chrisguillebeau.com/3x5/how-to-conduct-your-own-annual-review/
+2012 review/plan
+======
 
-5-yr plan
-------
-* ~~2002 Married! Bought house~~
+**5-yr plan**
+* ~~200~~ Married! Bought house
 * ~~2003~~
 * ~~2004~~
-* ~~2005 Moved to rental house(?)~~
-* ~~2006 NRM born~~
-* ~~2007 Bought KIA; sold Corolla~~
+* ~~2005~~ Moved to rental house(?)
+* ~~2006~~ NRM born
+* ~~2007~~ Bought KIA; sold Corolla
 * ~~2008~~
-* ~~2009 ENM born~~
-* ~~2010  Pay off debt~~
-* ~~2011 TMM born; sold Kia; bought Dodge; paid off debt;~~
-* 2012    bought house! Save $12,000; 10 years!
+* ~~2009~~ ENM born
+* ~~2010~~  Pay off debt
+* ~~2011~~ TMM born; sold Kia; bought Dodge; paid off debt
+* ~~2012~~    bought house! ~~Save $12,000~~ 10 years!
 * 2013    save for new car; buy car
 * 2014   
 * 2015  
@@ -34,11 +34,14 @@ http://chrisguillebeau.com/3x5/how-to-conduct-your-own-annual-review/
 * 2031
 * 2032   TMM 21; 30 years!
 
-3-5 measurable goals for each. Plus: “Actions Required for Each Goal.” In other words, what do I need to do (next) to achieve each goal?
 
-Attention: This is very important! Without completing this section, you’ll have a vision without a plan. You need to have both.
+**[Plan/Review][1]**
 
-Objective: I want to be fit, healthy, and strong. Physically and spiritually. 
+_3-5 measurable goals for each. Plus: “Actions Required for Each Goal.” In other words, what do I need to do (next) to achieve each goal?_
+
+_Attention: This is very important! Without completing this section, you’ll have a vision without a plan. You need to have both._
+
+**Objective:** I want to be fit, healthy, and strong. Physically and spiritually. 
  
 **Personal Development**
 - exercise routine 4 days/week (3 swim/2 bodyweight)
@@ -123,12 +126,15 @@ Objective: I want to be fit, healthy, and strong. Physically and spiritually.
 **[travel]**
 - travel (fishing, coast, WA)
 
-**Theme for the Year: FOOTINGS**
-[sorta. bought new house and HVAC. beginning of lots of new things and lots of work/plans to come]
+**Theme for the Year: FOOTINGS**  
+[sorta. bought new house and HVAC. beginning of lots of new things and lots of work/plans to come]  
 -maybe a 5-year plan for each category?  
 2011 FOUNDATION  
 2012 FOOTINGS  
 2013 FLOOR
 
-**Other goals**
+**Other goals**  
 reduce [started process in garage after moving into the new house. Mostly organizing to get to a place to start going through stuff and purge]
+
+
+[1]: http://chrisguillebeau.com/3x5/how-to-conduct-your-own-annual-review/
