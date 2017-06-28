@@ -15,8 +15,8 @@
 * ~~2012~~    bought house! ~~Save $12,000~~ 10 years!
 * 2013    save for new car; buy car
 * 2014   
-* 2015  
-* 2016   NRM 10
+* 2015   LGMM born
+* 2016   NRM 10; 20 yrs with State
 * 2017   15 years!
 * 2018
 * 2019   ENM 10
@@ -25,8 +25,8 @@
 * 2022   20 years!
 * 2023
 * 2024   NRM graduates
-* 2025
-* 2026   ENM graduates; 30 yrs with State
+* 2025   LGMM 10
+* 2026   ENM graduates; 30 yrs with State
 * 2027   NRM 21; 25 years!
 * 2028  
 * 2029   TMM graduates
